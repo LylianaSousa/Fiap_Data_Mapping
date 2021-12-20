@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimedatamapping",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
