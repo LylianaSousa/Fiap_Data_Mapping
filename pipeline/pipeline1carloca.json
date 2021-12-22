@@ -40,7 +40,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@activity('ListTableSakila').output.value",
+						"value": "@activity('Lookup1Carloca').output.value",
 						"type": "Expression"
 					},
 					"activities": [
