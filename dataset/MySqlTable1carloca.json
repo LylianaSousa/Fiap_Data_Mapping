@@ -1,0 +1,12 @@
+{
+	"name": "MySqlTable1carloca",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MySqldatamapping",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "MySqlTable",
+		"schema": []
+	}
+}
